@@ -1,0 +1,14 @@
+{id,
+title,
+author,
+image,
+breed,
+category: [breeding, adoption]
+content,
+comments_id
+}
+
+{
+id,
+comments_db
+}
